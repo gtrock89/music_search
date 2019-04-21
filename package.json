@@ -1,0 +1,14 @@
+{
+  "name": "music_searcher",
+  "version": "1.0.0",
+  "description": "This is a simple music searcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DasAuto",
+  "license": "MIT",
+  "dependencies": {
+    "fetch-jsonp": "^1.1.3"
+  }
+}
